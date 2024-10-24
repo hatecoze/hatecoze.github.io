@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://hatecoze.github.io/sitemap/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/aYM/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/Bjc/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/gNj/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/Rgf/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/AhY/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/Xry/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/QcZ/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/TmO/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/MTb/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/cor/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/WGo/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/tNB/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/RoG/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/lDc/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/QVu/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/Dqv/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/wiO/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/ZBd/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/Zrs/sitemap_index.hatecoze
+Sitemap: https://hatecoze.github.io/vRH/sitemap_index.hatecoze
